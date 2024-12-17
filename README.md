@@ -1,2 +1,2 @@
-# Git
-Repositório para as anotações e exercícios de Git e GitHub
+# Git e GitHub
+Este repositório contém anotações e exercícios de Git e GitHub
